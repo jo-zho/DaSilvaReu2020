@@ -4,6 +4,6 @@ For use in REU summer 2020 plagiarism script
 - Stores association between keys and hashed values in "keys.txt"  
 - Creates archive "anonymous_data.zip" in directory above user-specified directory with hashed files and "keys.txt"
 
-# Usage
+## Usage
     python data_anonymizer.py
 When prompted, path should be from user's home directory
